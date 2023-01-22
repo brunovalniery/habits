@@ -34,10 +34,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um aplicativo para auxiliar no rastreio de hábitos.
 
+- [Visite o projeto online](https://brunovalniery.github.io/habits)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/DkjWtbcQfjaqNiyRBbEehZ/Habits-(e)-(Community)?t=51t1ikgDL5Xso0Aq-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](<https://www.figma.com/file/DkjWtbcQfjaqNiyRBbEehZ/Habits-(e)-(Community)?t=51t1ikgDL5Xso0Aq-1>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
